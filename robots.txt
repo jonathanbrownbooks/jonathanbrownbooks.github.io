@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jonathanbrown98-max.github.io/jonathanbrownbooks.github.io/sitemap.xml
+Sitemap: https://jonathanbrownbooks.github.io/sitemap.xml
