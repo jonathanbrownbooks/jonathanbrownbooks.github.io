@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jonathanbrownbooks.github.io/sitemap.xml
